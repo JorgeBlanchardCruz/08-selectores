@@ -12,7 +12,7 @@
         "src/styles.css": true,
         "src/main.ts": true,
         "src/favicon.ico": true,
-        "src/index.html": true,
+        "src/index.html": false,
         ".angular": true,
         "src/assets": true,
         "src/app/app.module.ts": true,
