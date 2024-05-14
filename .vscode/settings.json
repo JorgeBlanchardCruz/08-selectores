@@ -1,0 +1,25 @@
+{
+    "files.exclude": {
+        "tsconfig.spec.json": true,
+        "tsconfig.json": true,
+        "tsconfig.app.json": true,
+        "package.json": true,
+        "package-lock.json": true,
+        "angular.json": true,
+        ".gitignore": true,
+        ".editorconfig": true,
+        "node_modules": true,
+        "src/styles.css": true,
+        "src/main.ts": true,
+        "src/favicon.ico": true,
+        "src/index.html": true,
+        ".angular": true,
+        "src/assets": true,
+        "src/app/app.module.ts": true,
+        "src/app/app.component.spec.ts": true,
+        "src/app/app.component.ts": true,
+        "src/app/app.component.html": true,
+        "src/app/app.component.css": true,
+        "src/app/app-routing.module.ts": true
+    }
+}
