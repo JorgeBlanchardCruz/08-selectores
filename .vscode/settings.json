@@ -17,8 +17,8 @@
         "src/assets": true,
         "src/app/app.module.ts": true,
         "src/app/app.component.spec.ts": true,
-        "src/app/app.component.ts": true,
-        "src/app/app.component.html": true,
+        "src/app/app.component.ts": false,
+        "src/app/app.component.html": false,
         "src/app/app.component.css": true,
         "src/app/app-routing.module.ts": true
     }
