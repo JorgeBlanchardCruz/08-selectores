@@ -15,7 +15,7 @@
         "src/index.html": true,
         ".angular": true,
         "src/assets": true,
-        "src/app/app.module.ts": true,
+        "src/app/app.module.ts": false,
         "src/app/app.component.spec.ts": true,
         "src/app/app.component.ts": true,
         "src/app/app.component.html": true,
